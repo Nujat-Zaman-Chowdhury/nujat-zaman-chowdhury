@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nujat Zaman Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fthe-pizzacat-cat-cats-computer-cmCEsJZHYBPels360q&psig=AOvVaw35iRjG48rKT6zmhTbF0n2H&ust=1718437902892000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi9t5nO2oYDFQAAAAAdAAAAABAK" alt="coding" width="400">
+<img align="left" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fthe-pizzacat-cat-cats-computer-cmCEsJZHYBPels360q&psig=AOvVaw35iRjG48rKT6zmhTbF0n2H&ust=1718437902892000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi9t5nO2oYDFQAAAAAdAAAAABAK](https://i.ibb.co/Fh6Y2Dz/Black-Modern-Personal-Linked-In-Banner.png)" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nujat-zaman-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="nujat-zaman-chowdhury" /> </p>
 
