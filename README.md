@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nujat Zaman Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<iframe src="https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nujat-zaman-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="nujat-zaman-chowdhury" /> </p>
 
