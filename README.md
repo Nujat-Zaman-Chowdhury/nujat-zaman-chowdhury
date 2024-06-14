@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nujat-zaman-chowdhury&show_icons=true&locale=en&layout=compact" alt="nujat-zaman-chowdhury" /></p>
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nujat-zaman-chowdhury&show_icons=true&locale=en" alt="nujat-zaman-chowdhury" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nujat-zaman-chowdhury&show_icons=true&locale=en" alt="nujat-zaman-chowdhury" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nujat-zaman-chowdhury&" alt="nujat-zaman-chowdhury" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nujat-zaman-chowdhury&" alt="nujat-zaman-chowdhury" /></p>
