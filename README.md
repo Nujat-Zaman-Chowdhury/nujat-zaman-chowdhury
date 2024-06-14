@@ -25,7 +25,7 @@
 <p><a href="https://ko-fi.com/nujat-zaman-chowdhury"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nujat-zaman-chowdhury" /></a></p><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nujat-zaman-chowdhury&show_icons=true&locale=en&layout=compact" alt="nujat-zaman-chowdhury" /></p>
-
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nujat-zaman-chowdhury&show_icons=true&locale=en" alt="nujat-zaman-chowdhury" /></p>
-
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nujat-zaman-chowdhury&" alt="nujat-zaman-chowdhury" /></p>
