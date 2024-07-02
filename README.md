@@ -10,10 +10,10 @@
 
 <img align="left" src="https://i.ibb.co/Fh6Y2Dz/Black-Modern-Personal-Linked-In-Banner.png" alt="coding">
 
+<br><br>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nujat-zaman-chowdhury" alt="nujat-zaman-chowdhury" /></a> </p>
-
+<div align="left">
+  
 - 🔭 I’m currently working on **My portfolio**
 
 - 👯 I’m looking to collaborate on **github**
@@ -21,6 +21,7 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **nujattazin@gmail.com**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
