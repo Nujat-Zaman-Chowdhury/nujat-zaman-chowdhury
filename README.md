@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center">Hi 👋, I'm Nujat Zaman Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
