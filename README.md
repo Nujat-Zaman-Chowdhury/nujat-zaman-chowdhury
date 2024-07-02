@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=500&size=25&pause=1000&color=37B399&background=FFFFFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nujat+Zaman+Chowdhury;A+passionate+Front+End+developer+from+Bangladesh" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=500&size=20&pause=1000&color=37B399&background=FFFFFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nujat+Zaman+Chowdhury;A+passionate+Front+End+Developer+from+Bangladesh" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img align="left" src="https://i.ibb.co/Fh6Y2Dz/Black-Modern-Personal-Linked-In-Banner.png" alt="coding">
