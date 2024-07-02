@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nujat-zaman-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="nujat-zaman-chowdhury" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nujat-zaman-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="nujat-zaman-chowdhury" /> </p>
 <h1 align="center">Hi 👋, I'm Nujat Zaman Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
