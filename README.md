@@ -1,5 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nujat-zaman-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="nujat-zaman-chowdhury" /> </p>
-
+<h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=20&pause=1000&color=37B399&background=FFFFFF00&random=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Nujat+Zaman+Chowdhury;A+passionate+Front+End+Developer+from+Bangladesh" alt="Typing SVG" />
+</h1>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=20&pause=1000&color=37B399&background=FFFFFF00&random=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Nujat+Zaman+Chowdhury;A+passionate+Front+End+Developer+from+Bangladesh" alt="Typing SVG" /></a>
