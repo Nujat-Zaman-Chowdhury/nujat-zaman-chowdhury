@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nujat-Zaman-Chowdhury.nujat-zaman-chowdhury" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nujat-zaman-chowdhury.nujat-zaman-chowdhury" />
 <h1 align="center">Hi 👋, I'm Nujat Zaman Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
