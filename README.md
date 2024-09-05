@@ -14,7 +14,7 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **Next Js**
 
 - 👯 I’m looking to collaborate on **github**
 
